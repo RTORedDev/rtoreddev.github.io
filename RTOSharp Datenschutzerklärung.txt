@@ -1,0 +1,49 @@
+﻿RedDev / RTOSharp
+Datenschutzerklärung
+  
+
+Letzte Änderung - 05.02.2025 // 08:34
+
+
+Der RTOSharp Discord-Bot wird vom RedDev Entwicklungsteam unter der Leitung von Jakob Roth (“KaenguruuDev”) auf einem Hetzner-Server am Standort Helsinki betrieben.
+1.1 Gesammelte Daten
+Grundsätzlich erhobene Daten
+Die folgenden Daten werden ab dem Beitritt eines Nutzers auf Discord-Server mit dem RTOSharp gesammelt:
+1. Discord Benutzername
+2. Discord Nutzer-Id
+3. Discord Profilbild-Link
+4. Anzahl der gesendeten Nachrichten, sowie Nachrichtentyp
+5. Nachrichten-Transkripte in Ticket-Kanälen zur späteren Durchsichtung
+Optional gesammelte Daten
+Zusätzlich können nach expliziter Aufforderung von Seiten des Nutzers folgende Daten gespeichert werden:
+1. Geburtsdatum (“Birthdays” Feature)
+2. Akzentfarbe (“Rank Cards” Feature)
+
+
+Bei Fehlverhalten können zudem im Kontext des "Mod Notes" Feature durch die Moderation verfasste Texte gespeichert werden.
+1.2 Zweck der Erhebung
+Die Daten werden erhoben, um eine bessere Nutzererfahrung zu ermöglichen und die ordnungsgemäße Funktionsweise der beworbenen Features des Bots zu gewährleisten.
+Die in 1.1 als optional gekennzeichneten Daten werden erhoben, um den Nutzern erweiterte Konfigurationsmöglichkeiten zu geben.
+1.3 Rechtsgrundlage
+Die Daten werden nach §x, Abschnitt y, DSGVO gesammelt.
+Sie sind notwendig, um die Funktionalität des RTOSharp Bot zu gewährleisten und ermöglichen uns eine schnelle und effektive Behebung von auftretenden Fehlern.
+1.4 Datenweitergabe
+Die gesammelten Daten werden nicht an Dritte weitergegeben und sind nur von Mitgliedern des RedDev Entwicklerteams einsehbar. Sie werden ausschließlich für direkt mit RTOSharp im Zusammenhang stehende Services verwendet.
+1.5 Datenaufbewahrung und -löschung
+Direkt personenbezogene Daten werden automatisch gelöscht, wenn der Nutzer den Discord-Server, auf dem RTOSharp aktiviert ist, verlässt. Die Transkripte der Ticket-Kanäle werden automatisch nach 30 Tagen gelöscht.
+1.6 Nutzerrechte
+Personen, deren Daten auf Servern von RTOSharp gespeichert werden, haben folgende Ansprüche:
+1. Auskunft über die über sie vorliegenden Daten
+2. Auskunft in einem maschinenlesbaren Format
+3. Berichtigung inkorrekter Daten
+4. Löschung personenbezogener Daten
+
+
+Diese können sie jederzeit geltend machen.
+
+
+Personen, die der Speicherung personenbezogener Daten durch RTOSharp widersprechen, können die Funktionalitäten des Bots nicht wahrnehmen und werden ggf. von Discord-Servern entfernt.
+1.7 Nutzerrechte
+Die Daten werden verschlüsselt auf den RTOSharp Servern gespeichert. Der Zugriff auf diese Server ist nur einzelnen RedDev-Entwicklern möglich und erfolgt unter der Verwendung passwortgeschützter Anmeldeverfahren.
+1.8 Nutzerrechte
+Änderungen an dieser Datenschutzerklärung sind dem RTOSharp / RedDev Team vorbehalten. Diese werden durch Direktnachrichten an betroffene Personen bekannt gegeben.
