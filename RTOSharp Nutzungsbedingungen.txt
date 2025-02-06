@@ -1,0 +1,49 @@
+﻿RedDev / RTOSharp
+Nutzungsbedingungen
+  
+
+Letzte Änderung - 05.02.2025 // 12:51
+Die in diesem Dokument dargelegten Nutzungsbedingungen sind Voraussetzung für die Inanspruchnahme der vom RTOSharp Discord-Bot bereitgestellten Dienstleistungen. Alle Nutzer:innen (im Folgenden “Nutzer”) sind zur Einhaltung verpflichtet.
+1. Nutzungsrechte
+Das Akzeptieren der Nutzungsbedingungen erlaubt die nicht-exklusive Nutzung des RTOSharp Discord-Bots auf Discord-Servern. Nicht ausdrücklich gewährte Rechte sind vorbehalten. Durch den Verstoß gegen unsere oder die Nutzungsbedingungen Dritter (bspw. Discord) verliert der Nutzer Anspruch auf die Dienstleistungen des RTOSharp Bots.
+
+
+2. Verbotene Nutzung
+Nutzer verpflichten sich, den Bot nicht für illegale, unzulässige oder missbräuchliche Zwecke zu verwenden, einschließlich, aber nicht beschränkt auf:
+
+
+1. Den mutwilligen Verstoß gegen die Nutzungsbedingungen der beteiligten Dienstleister (RTOSharp, Discord)
+2. Die Belästigung andere Nutzer durch unangemessene oder übermäßige Nutzung der Bot-Funktionen
+3. Die absichtliche Manipulation zur Ausnutzung (“Exploits”) von Softwarefehlern (“Bugs”)
+4. Jegliche Form der gezielten Systemstörung, bspw. durch DDos-Angriffe (sowohl bezogen auf den Bot selbst als auch die mit dem Bot verbundenen Dienste)
+
+
+3. Haftungsausschluss
+Der RTOSharp Bot wird in seiner aktuellen Version zur Verfügung gestellt. Das RedDev-Entwicklerteam übernimmt keinerlei Haftung für:
+
+
+1. Fehler, Ausfälle oder Unterbrechungen der Dienstleistungen
+2. Durch technische Fehler entstandene Datenverluste
+3. Durch unsachgemäße Benutzung verursachte Schäden
+
+
+Das RedDev-Entwicklerteam ist nicht für die von Nutzern generierten / verarbeiteten Inhalte.
+
+
+4. Geistiges Eigentum und Präsentation
+Alle Rechte an den Inhalten und Funktionen des Bots, einschließlich des Quellcodes, gehören dem RedDev Entwicklerteam oder den Lizenzgebern des RedDev Entwicklerteams.
+Diese Inhalte dürfen ohne schriftliche Erlaubnis nicht kopiert, modifiziert oder weiterverbreitet werden.
+
+
+5. Kommunikation mit nicht-administrativen Servermitgliedern
+Es dürfen keine Veränderungen an den Äußerlichkeiten des RTOSharp Bots (Anzeigename, Profilbild, etc.) vorgenommen werden, die zur Verschleierung des Ursprungs des RTOSharp Bots dienen.
+Der RTOSharp Bot informiert automatisch alle Nutzer über die Direktnachrichtenfunktion. Des Weiteren müssen alle Nutzer beim Beitritt auf einen Server, der RTOSharp benutzt, auf dessen Verwendung hingewiesen werden. 
+Zusätzlich muss ein Textkanal auf dem Server konfiguriert werden, in welchem der Bot solche Änderungen jederzeit bekannt geben kann.
+
+
+6. Änderungen der Nutzungsbedingungen
+RedDev behält sich das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern. Änderungen werden durch eine Benachrichtigung im Bot oder durch eine aktualisierte Veröffentlichung dieser Nutzungsbedingungen bekannt gegeben. Nutzer stimmen den Änderungen automatisch zu, wenn sie den Bot nach Bekanntgabe weiterhin nutzen.
+
+
+7. Beendigung der Nutzung
+Das RedDev-Entwicklerteam behält sich vor, die Nutzung des Bots für einzelne oder alle Nutzer ohne Vorwarnung oder Angabe der Gründe einzuschränken oder vollständig zu beenden. Ebenso ist es jedem Nutzer zu jeder Zeit erlaubt, den RTOSharp Bot von seinen Discord-Servern zu entfernen und die entsprechenden Daten zu löschen.
